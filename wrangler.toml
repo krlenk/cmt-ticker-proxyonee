@@ -1,0 +1,13 @@
+name = "cmt-ticker-proxyonee"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+# After deploying, your worker will be available at:
+#   https://cmt-ticker-proxy.<your-cf-subdomain>.workers.dev
+#
+# To deploy:
+#   1. Run `npm install`
+#   2. Run `npx wrangler login`
+#   3. Run `npx wrangler deploy`
+#
+# Or use the one-click "Deploy to Cloudflare" button in the README.

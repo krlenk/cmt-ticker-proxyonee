@@ -1,0 +1,13 @@
+{
+  "name": "cmt-ticker-proxyonee",
+  "version": "1.0.0",
+  "description": "Cloudflare Worker that proxies Yahoo Finance chart data for CSE:CMT with CORS, for use in a Webflow embed.",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.90.0"
+  }
+}
